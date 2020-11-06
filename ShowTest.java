@@ -16,11 +16,6 @@ public class ShowTest {
         ShowTest st = new ShowTest();
         ShowTest.FirstLevel fl = st.new FirstLevel();
         fl.methodFirst(3);
-        try {
-            int res = 100/0;
-        } catch (Exception e) {
-            System.out.println(e);
-        }
     }
 
    
