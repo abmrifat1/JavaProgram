@@ -14,7 +14,7 @@ public class Cycle {
     }
 
     public String showSpeed() {
-        return("gear:" + gear+ ",speed:" + speed);
+        return("gear:" + gear+ ", speed:" + speed);
     }
 }
 
@@ -27,7 +27,7 @@ class Bicycle extends Cycle {
     }
 
     public void setDoor (int value) {
-        door = value;
+        this.door = value;
     }
 
     @Override
