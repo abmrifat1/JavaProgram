@@ -1,4 +1,4 @@
-package try_catch.class_practice;
+package class_practice;
 
 public class DogClass {
     // Instance Variables
