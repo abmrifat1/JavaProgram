@@ -1,3 +1,4 @@
+//inheritance
 package class_practice;
 
 public class Cycle {
