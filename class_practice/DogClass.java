@@ -16,6 +16,8 @@ public class DogClass {
         this.age = age;
         this.color = color;
     }
+
+    DogClass() {}
  
     // method 1
     public String getName()

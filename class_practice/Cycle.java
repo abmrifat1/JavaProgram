@@ -41,5 +41,7 @@ class Test {
     public static void main(String[] args) {
         Bicycle bc = new Bicycle(5, 80, 2);
         System.out.println(bc.showSpeed());
+        DogClass dc = new DogClass();
+        System.out.println(dc.getName());
     }
 }
